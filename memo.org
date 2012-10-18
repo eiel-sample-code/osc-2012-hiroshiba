@@ -1,0 +1,33 @@
+OSC 広島 2012の ラフ
+
+* 目的
+** Hiroshima.rbに未参加の人にどんな活動しているか紹介する
+** github page の紹介をさくっと
+** 自分の成果物をできるだけ非プログラマにもわかるように紹介
+* 紹介できそうなもの
+** http://hiroshimarb.github.com
+** hiroshimarb-gem
+** augm Hiroshima 2012 のフォーム
+** http://iidx.eiel.info
+** pass(iOS)
+* 内容
+** Hiroshima.rb の紹介 (5分)
+- 目的とか
+- 最近やってることとか
+  - github を利用する
+- 主なメンバー紹介
+  - hiroshimarb member で出力される かつ 一度でも勉強会に来たことがある人
+  - eielh
+  - nextstep2osx
+** Hiroshima.rb Site with github page(5分)
+** hiroshimarb-gem (1分)
+- http://hiroshimarb.github.com
+- $ gem install hiroshimarb
+- $ hiroshimarb open
+- $ hiroshimarb help
+** augm Hiroshima 2012 のフォーム (1分)
+- AUGM in Hiroshima 2012のフォームつくったよ
+** pass (1分)
+https://github.com/hiroshimarb/hiroshimarb-passbook
+** iidx (1分)
+http://iidx.eiel.info
