@@ -18,6 +18,10 @@ https://speakerdeck.com/u/eiel/p/osc-2012-guang-dao-hiroshima-dot-rb
 [Slide Share](http://www.slideshare.net/akirakaneda9/osc2012-hiroshima)
 [Speaker Deck](https://speakerdeck.com/u/akira345/p/osc2012hiroshima)
 
+### @NeXTSTEP2OSX
+
+[Slide Share](http://www.slideshare.net/YukinoriKitadai/twitter-osc-2012)
+
 ## 関連
 
 [Hiroshima.rb Website](http://hiroshimarb.github.com/)
