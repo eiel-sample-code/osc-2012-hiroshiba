@@ -28,6 +28,13 @@ Twitterのフォロワの増減がわたし…、 気になります!
 
 * [Slide Share](http://www.slideshare.net/YukinoriKitadai/twitter-osc-2012)
 
+### @takatayoshitake
+
+PaaSで簡単Railsアプリを公開しよう！
+
+* [Slide Share](http://www.slideshare.net/yo.takata/ruby-paas-osc2012hiroshima20121020)
+* [Speaker Deck](https://speakerdeck.com/tkt/rubypaas-osc2012-hiroshima-20121020)
+
 ## 関連
 
 * [Hiroshima.rb Website](http://hiroshimarb.github.com/)
